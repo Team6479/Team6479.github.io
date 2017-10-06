@@ -8,7 +8,7 @@ title: Home
 
 Welcome to team6479.github.io
 
-test
+tests
 
 * [Example 1](https://google.com)
 
