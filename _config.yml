@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-include: ['about.md']
+include: ['_pages']
